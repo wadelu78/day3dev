@@ -4,6 +4,7 @@
   "description": "This is my personal website.",
   "main": "server.js",
   "scripts": {
+    "start": "node src/server.js",
     "server": "nodemon src/server.js"
   },
   "keywords": [],
